@@ -1,4 +1,5 @@
 ﻿
 var		sire = "king";
 sire += " of the hill";
-site += " and other stuff";
+sire += " and other stuff";
+sire += " that comes with it";
