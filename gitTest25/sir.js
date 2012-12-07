@@ -1,0 +1,2 @@
+﻿
+var		sire = "king";
